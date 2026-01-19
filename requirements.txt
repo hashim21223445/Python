@@ -23,3 +23,4 @@ tweepy
 typing_extensions
 xgboost
 urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
+pyasn1>=0.6.2 # not directly required, pinned by Snyk to avoid a vulnerability
